@@ -19,7 +19,7 @@
 
 ## About Me
 
-**Java Backend Developer** based in Belarus 🇧🇾 · BNTU graduate (2022–2026).
+**Java Backend Developer** based in Belarus 🇧🇾 · BNTU graduate with honors (2022–2026).
 
 ~1 year of hands-on experience building REST APIs and microservices on the Spring ecosystem, across fintech and bioinformatics backend services. Right now I'm actively diving into **LLM-powered applications** and **crypto / blockchain** systems.
 
